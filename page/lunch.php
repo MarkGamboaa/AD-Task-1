@@ -15,9 +15,9 @@
 
         for ($i = 0; $i < count($days); $i++) {
             if ($days[$i] === "Saturday" || $days[$i] === "Sunday") {
-              echo "<li style='color:red; font-weight:bold'>{$day[$i]}: {$meals[$i]}</li>";
+              echo "<li style='color:red; font-weight:bold'>{$days[$i]}: {$meals[$i]}</li>";
             } else {
-              echo "<li style='color:green;'>{$days[$i]}: {$meal[$i]}</li>";
+              echo "<li style='color:green;'>{$days[$i]}: {$meals[$i]}</li>";
             }
           }
         ?>
