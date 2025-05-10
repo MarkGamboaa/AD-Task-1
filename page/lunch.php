@@ -8,5 +8,13 @@
 </head>
 <body>
     <h1>Lunch Meals</h1>
+    <ul>
+        <?php
+        $days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+        $meals = ["Sandwich", "Rice & Chicken", "Pasta", "Burger", "Steak", "Pizza", "Sushi"];
+        
+        ?>
+    </ul>
+
 </body>
 </html>
