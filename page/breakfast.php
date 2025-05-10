@@ -22,5 +22,6 @@
               }
         ?>
     </ul>
+    <a href="../index.php" class="back-button">Back</a>
 </body>
 </html>
