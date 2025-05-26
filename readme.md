@@ -21,7 +21,7 @@
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/AD-CI4-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=MarkGamboaa/AD-Task-1)
 
 [![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
 
@@ -72,11 +72,12 @@ The Weekly Meal Planner is a simple PHP-based website that helps users organize 
 - Navigation and layout components
 - Organized file structure for scalability
 
-
 ### Technology
 
 <!-- TODO: List of Technology Used -->
+
 #### Language
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -91,13 +92,13 @@ The Weekly Meal Planner is a simple PHP-based website that helps users organize 
 4. Add `.util` to the `.php` files if they are utility codes; example: `account.util.php`.
 5. Place Files in their respective folders.
 6. Different file naming Cases
-   | Naming Case | Type of code         | Example                           |
+   | Naming Case | Type of code | Example |
    | ----------- | -------------------- | --------------------------------- |
-   | Pascal      | Utility              | Accoun.util.php                   |
-   | Camel       | Components and Pages | index.php or footer.component.php |
-8. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
-9. Use proper label in your github commits: `feat`, `fix`, `refactor` and `docs`
-10. File Structure to follow below.
+   | Pascal | Utility | Accoun.util.php |
+   | Camel | Components and Pages | index.php or footer.component.php |
+7. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
+8. Use proper label in your github commits: `feat`, `fix`, `refactor` and `docs`
+9. File Structure to follow below.
 
 ```
 AD-ProjectName
@@ -125,14 +126,15 @@ AD-ProjectName
 └─ index.php
 └─ readme.md
 ```
+
 > The following should be renamed: name.css, name.js, name.jpeg/.jpg/.webp/.png, name.component.php(but not the part of the `component.php`), Name.utils.php(but not the part of the `utils.php`)
 
 ## Resources
 
 <!-- TODO: Add References -->
 
-| Title              | Purpose                                         | Link                    |
-| ------------------ | ----------------------------------------------- | ----------------------- |
-| W3Schools HTML     | Reference for HTML structure                    | https://w3schools.com   |
-| PHP Documentation  | Understanding PHP for page rendering            | https://php.net         |
-| CSS Tricks         | Styling help and layout suggestions             | https://css-tricks.com  |
+| Title             | Purpose                              | Link                   |
+| ----------------- | ------------------------------------ | ---------------------- |
+| W3Schools HTML    | Reference for HTML structure         | https://w3schools.com  |
+| PHP Documentation | Understanding PHP for page rendering | https://php.net        |
+| CSS Tricks        | Styling help and layout suggestions  | https://css-tricks.com |
